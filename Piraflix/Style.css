@@ -1,0 +1,102 @@
+body{
+
+}
+.header nav{
+    background-color: rgb(218, 218, 218) !important;
+}
+.header{
+    margin: 0px auto;
+    background-color: rgb(218, 218, 218)
+}
+.logo{
+    max-width: 200px;
+    padding: 30px;
+    background-color: rgb(218, 218, 218)
+}
+.lancamentos{
+    text-align: center;
+    padding: 30px;
+}
+.cabecalho{
+    background-color: rgb(218, 218, 218)
+}
+.slides{
+    padding: 10px;
+}
+.destaque{
+    background-color: rgb(218, 218, 218);
+    padding: 10px;
+}
+.destaque-imgs img{
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(218, 218, 218)
+}
+.d-block{
+    width: 100%;
+}
+.negrito{
+    font-weight: bold;
+}
+span{
+    width: 100%;
+}
+.iframe{
+    width: 100%;
+    height: 500px;
+}
+.nomePerfil{
+    font-weight: bold;
+}
+.perfil{
+    padding: 10px;
+}
+p{
+    text-align: left;
+}
+.avaliacao{
+    
+    padding: 5px;
+}
+.data{
+    font-weight: bold;
+}
+.makeoff{
+    
+}
+.makeoffimg{
+    width: 100%;
+    height: 100%;
+    padding: 10px 50px;
+    
+}
+.makeoffinfo{
+    margin: 0px;
+    padding: 0px 50px;
+    
+
+}
+.novidades{
+    padding-top: 120px;
+}
+h5{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: left;
+}
+h6{
+    font-size: 20px;
+}
+.media > img{
+    width: 350px;
+    height: 250px;
+    padding-bottom: 10px;
+}
+.icons > i{
+    padding: 10px;
+}
+footer{
+    text-align: center;
+    background-color: gray;
+}
+
